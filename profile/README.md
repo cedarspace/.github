@@ -9,7 +9,7 @@ Here is a summary of our private projects.
 
 ### City Poems
 
-<img src="assets/city_poems_navigator.png" width="20%>
+<img src="assets/city_poems_navigator.png" width="20%">
 The app is a co-creation with CEDaR, a collaborative lab-studio in the Institute for Critical Indigenous Studies at UBC Vancouver, dedicated to developing relational technologies to support community-led storytelling. 
 
 Nine  poems in Metro Vancouver are featured in our first phase of the App, which allows visitors, residents and/or poetry enthusiasts to access the poems and related content from the locations to which they refer.
