@@ -10,11 +10,11 @@ Here is a summary of our private projects.
 ### City Poems
 <div class="grid cards" markdown> 
 
-![]("assets/city_poems_navigator.png")
+![](assets/city_poems_navigator.png)
 
-![]("assets/city_poems_widgets.png")
+![](assets/city_poems_widgets.png)
 
-![]("assets/city_poems_image.png")
+![](assets/city_poems_image.png)
 
 </div>
 The app is a co-creation with CEDaR, a collaborative lab-studio in the Institute for Critical Indigenous Studies at UBC Vancouver, dedicated to developing relational technologies to support community-led storytelling. 
