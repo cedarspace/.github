@@ -1,11 +1,11 @@
 # Welcome to the CEDaR Space Github
 
-CEDaR is a UBC unit within the Institute for Critical Indigenous studies. Our research focuses on the collaborative development of technologies, tools, and methods  for community-centered revitalization of language and culture. We work with communities through (1) documenting and interpreting their language and culture; (2) developing interactive new media tools and cutting edge applications of natural language processing (NLP) technologies that allow them to mobilize existing materials for teaching, learning, and storytelling; and (3) developing tools and models (user-oriented content management systems and archival databases) for storing and caring for digital materials in the communities where they belong, with attention to ethical stewardship and key principles of data sovereignty.  We also provide multi-media equipment and training to to students as well as resources for project development to faculty and community researchers.
+CEDaR is a UBC unit within the Institute for Critical Indigenous studies. Our research focuses on the collaborative development of technologies, tools, and methods  for community-centered revitalization of language and culture. We work with communities to (1) develop interactive new media tools and cutting edge applications of natural language processing (NLP) technologies that allow them to mobilize existing materials for teaching, learning, and storytelling; (2) make accessible technology and training available for documenting and interpreting language and culture; and (3) develop user-oriented content management systems and archival databases for storing and caring for digital materials in the communities where they belong, with attention to ethical stewardship and key principles of data sovereignty.  We also provide multi-media equipment, training, and resources for project development to students, faculty and community researchers.
 
 The projects published here are CEDaR's public contributions including scripts for data management, games and websites developed in support of research projects, and contributions to open source language technology projects.
 
 ## CEDaR Projects
-Here is a summary of our private projects.
+Repositories are public where possible, according to community needs and preferences and stage of development.
 
 ### City Poems
 <div class="grid cards" markdown>
